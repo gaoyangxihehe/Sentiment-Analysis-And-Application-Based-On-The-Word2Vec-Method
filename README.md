@@ -1,0 +1,1 @@
+# Sentiment-Analysis-And-Application-Based-On-The-Word2Vec-Method
